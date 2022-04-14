@@ -14,4 +14,4 @@
 
 •	(Необязательно) Установить компонент GnuWin32 «Make for Windows», перейдя по ссылке http://gnuwin32.sourceforge.net/packages/make.htm. Это позволит вам воспользоваться прилагающийся к проекту мейкфайлу введя команду «make», заметно упрощая сборку программы.
 
-	(Альтернативно), можно перейти в папку с исходным кодом в командной строке и ввести команду «g++ main.cpp printer.cpp world.cpp -o life -lopengl32 -lfreeglut -lglu32».
+ (Альтернативно), можно перейти в папку с исходным кодом в командной строке и ввести команду «g++ main.cpp printer.cpp world.cpp -o life -lopengl32 -lfreeglut -lglu32».
